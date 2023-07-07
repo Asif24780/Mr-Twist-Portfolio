@@ -40,3 +40,16 @@ border: none;
 color: white;
 
 }
+.header bai{
+    background-color: #fffaf3;
+
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner.profile-picture{
+    width: 584px;
+
+}
