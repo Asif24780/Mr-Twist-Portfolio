@@ -40,16 +40,31 @@ border: none;
 color: white;
 
 }
-.header bai{
+.header{
     background-color: #fffaf3;
-
+    background-image: url(/images/header_bg.png);
+background-repeat: no-repeat;
+background-position: bottom right;
 }
 .banner{
-    padding:30px 30px 30px 150px;
+    padding:30px 30px 0px 150px;
     display: flex;
     align-items: center;
 }
 .banner.profile-picture{
     width: 584px;
 
+}
+.banner-greating{font-size: 45px;
+    color: #474747;
+    margin-bottom: 0;
+
+
+}
+.banner-title{margin: 85px;
+    top-width:
+
+}
+.banner-contant{
+    
 }
